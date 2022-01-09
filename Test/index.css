@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul {
+    list-style-type: none;
+    margin-top: -70px;
+    text-align: right;
+}
+
+li{
+   display: inline;
+}
+li a{
+    display: inline-block;
+    padding: 10px;
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image1{
+    width: 15%;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.feedback{
+    width: 20px;
+}
+.feedback1{
+    width: 35px;
+}
+
+.text-box h1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    margin-top: 140px;
+    font-weight: lighter;
+}
+
+.text-box p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    text-align: justify;
+    margin-top: 20px;
+    color: #292626;
+}
+.side-image{
+    width: 30%;
+    border: 10px solid transparent;
+    border-radius: 50%;
+    float: right;
+    margin-right: 130px;
+    margin-top: -270px;
+}
+
+.button-set{
+    padding-left: 100px;
+    margin-top: 70px;
+    
+}
+.buttons{
+    padding: 10px 20px 10px;
+    margin-right: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #4588ed;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid transparent;
+}
+.buttons:hover{
+    background-color: #3877d6;
+}
+.buttons2{
+    padding: 10px 80px;
+    font-size: 20px;
+    border: 2px solid #757070;
+    border-radius: 5px;
+}
+.buttons2:hover{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.relements{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    float: right;
+    margin-left: 50%;
+    margin-right: 240px;
+    margin-top: -30px;
+    text-align: center;
+}
+.relements1{
+    font-size: 15px;
+    text-align: center;
+    color: #000000;
+}
+.relements1 span{
+    color: #000000;
+    font-weight: bold;
+}
+
+hr{
+    margin-top: 35px;
+    width: 700px;
+}
+.end-element{
+    padding-left: 100px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+.end-element a{
+    color: #4588ed;
+    text-decoration: none;
+}
+.end-element p{
+    display: inline-block;
+    color: #757070;
+}
